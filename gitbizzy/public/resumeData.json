@@ -1,21 +1,21 @@
 {
   "main": {
     "name":"Dillon Butvin",
-    "occupation":"[Soon To Be] Product Manager",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"Product Management",
+    "description":"Here you'll find a collection of my work and play. Get to know me, check out my current blog, and don't hesitate to reach out!",
     "image":"about.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "butvin@gmail.com",
-    "phone": "432-413-7957",
+    "bio":"I have a background in Engineering, Operations, Customer Service, Sales, and Optimism. I constantly strive to better myself and enable those around me to do the same. I'm a pleasant person to be around, be succeeding with, and be in the trenches with. No project too big, no task too small. If it gets us where we're going, I'll finish them all.",
+    "contactmessage":"Please reach out with any questions, desires to hire, or if you just want to say hello!",
+    "email": "",
+    "phone": "",
     "address":{
-      "street":"(Your Street)",
+      "street":"Williamsburg",
       "city":"Brooklyn",
       "state":"NY",
-      "zip": "11222"
+      "zip": ""
     },
     "website": "http://www.dillonbutvin.com",
-    "resumedownload":"http://dillonbutvin.com",
+    "resumedownload":"https://www.linkedin.com/in/dillon-butvin-93406a6/",
     "social":[
       {
         "name":"facebook",
