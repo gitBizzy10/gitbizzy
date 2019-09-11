@@ -8,6 +8,12 @@ npm install jquery --save
 npm install react-ga --save 
 npm start
 
+
+./src/App.js
+Cannot find file: 'About.js' does not match the corresponding name on disk: './src/Components/components'.
+[CHANGED FOLDER NAME TO CAPITALIZED 'Components' THEN WENT INTO APP.JS AND SAVED]
+
+
 ## Available Scripts
 
 In the project directory, you can run:
