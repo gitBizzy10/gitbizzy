@@ -58,30 +58,54 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
+        "school":"Hack Reactor",
+        "degree":"JavaScript Short Course",
+        "graduated":"October 2017",
+        "description":""
+      },
+	{
         "school":"University of Texas at Austin",
         "degree":"BA Civil Engineering",
         "graduated":"May 2011",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"Hack Reactor",
-        "degree":"JS Short Course",
-        "graduated":"November 2017",
-        "description":"Completed instructional portion of Hack Reactor JavaScript Bootcamp. Ultimately deciding I did not want to code for a living, I left for other pursuits."
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"OwlSpark Accelerator",
-        "title":"The Second Act",
+        "company":"The Second Act - OwlSpark Accelerator",
+        "title":"Co-Founder & Product Manager",
         "years":"May 2019 - Aug 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Worked in a startup accelerator with a team of Rice MBAs on a project connecting skilled retirees with startups and small businesses looking for experts part-time. -- Watch my presentation: https://youtu.be/HIk5yNFcaeY?t=4185"
       },
       {
         "company":"SAHB Realty Group",
-        "title":"Operations Consultant",
-        "years":"May 2019 - Aug 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title":"Product Management Consultant",
+        "years":"April 2019 - Aug 2019",
+        "description":"Hired as a product consultant to assess current issues and provide a roadmap, metrics, and a process for capturing metrics to improve performance."
+      },
+	{
+        "company":"Texas ToGo",
+        "title":"COO",
+        "years":"Jan 2018 - Nov 2018",
+        "description":"- Developed market entry strategy, increasing velocity of new market expansion. Entered 7 new markets in 6 months (12 markets entered in the previous 72 months) -- Designed and implemented driver sign up pipeline, decreasing average time from application to driving from 7-9 days to 1-3 days -- Catalyzed Sales Strategy and Training. Increased restaurant signups from 2-5/month to 25-30/month -- 75 order/day increase during tenure -- Created interviewing and onboarding process -- Hired 12 new employees -- Established quarterly and yearly projections and operational plans to accomplish goals"
+      },
+      {
+        "company":"Bizzy, LLC",
+        "title":"Founder and CEO",
+        "years":"Dec 2015 - Present",
+        "description":"Entrepreneurial venture LLC, mostly real estate investment, acquisition, and management. -- Acquired 2 duplex rental properties -- Managed long-term and Airbnb rental processes -- Learned customer-centric approach to comfort when arriving at a home, how to intuitively guide guests in usage, predict and cover problems that may arise, market, and price properties effectively -- Managed or self-completed major renovations and improvement projects -- Founder and Partner in Z&D, LLC real estate development investment team"
+      },
+      {
+        "company":"ShippingEasy",
+        "title":"Account Manager",
+        "years":"October 2016 - June 2017",
+        "description":"ShippingEasy is a recently acquired wholly-owned subsidiary of stamps.com. They provide an aggregated shipping solution across multiple e-commerce platforms for small businesses. They recently won the All-Star Service Team of the Year – Small Business Award presented by the National Customer Service Association (NCSA). -- Joined to learn more about startups and remote teams - applied learning to manage Texas ToGo market teams across 19 locations. -- Advanced knowledge of customer service and how to reach customers, learn from their pain points, and use customer service as a platform for sales and product development -- Later brought my boss on as a consultant and mentor while working on the customer service build-out for Texas ToGo"
+      },
+      {
+        "company":"Schlumberger & Pelican Energy Consultants",
+        "title":"Engineer",
+        "years":"October 2011 - Feb 2016",
+        "description":"Planning and projections with ability for quick contingency in a dynamic, high stakes offshore drilling environment -- Completion of Drilling Fluids School with 99.7% competency and top marks in physical laboratory proficiency -- Design and implementation management of steel structures and concrete foundations -- EIT certificate completion"
       }
     ],
     "skills":[
@@ -119,32 +143,32 @@
     "projects": [
       {
         "title":"Current Blog - NYC Product Management",
-        "category":"My Blog",
-        "image":"img-4.jpg",
+        "category":"Current Blog - NYC Product Management",
+        "image":"blog-nyc.jpg",
         "url":"https://www.gitbizzyblog.com/current"
       },
       {
         "title":"Japan Blog",
-        "category":"Blog",
-        "image":"blog-3.jpg",
+        "category":"Japan Blog",
+        "image":"blog-japan.jpg",
         "url":"http://www.gitbizzyblog.com/japan"
       },
       {
         "title":"Southeast Asia Blog",
-        "category":"Blog",
-        "image":"blog-1.jpg",
+        "category":"Southeast Asia Blog",
+        "image":"blog-sea.jpg",
         "url":"http://www.gitbizzyblog.com/sea"
       },
       {
-        "title":"Mainland Western Europe Blog",
-        "category":"Blog",
-        "image":"img-3.jpg",
+        "title":"Europe Blog",
+        "category":"Europe Blog",
+        "image":"blog-france.jpg",
         "url":"http://www.gitbizzyblog.com/europe2"
       },
       {
         "title":"Sweden, Copenhagen Blog",
         "category":"Sweden, Copenhagen Blog",
-        "image":"img_bg_3.jpg",
+        "image":"blog-sweden.jpg",
         "url":"http://www.gitbizzyblog.com/europe1"
       }
     ]
