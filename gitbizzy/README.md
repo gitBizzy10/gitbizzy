@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To Run:
+
+cd into correct working folder
+npm install
+npm install jquery --save
+npm install react-ga --save 
+npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
