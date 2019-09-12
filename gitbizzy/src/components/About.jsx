@@ -34,8 +34,8 @@ class About extends Component {
 						   <span>
 						         {city} {state} {zip}
                    </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
+                   <span>{email}</span>
+                   <span>{phone}</span><br />
 					   </p>
                </div>
                <div className="columns download">
