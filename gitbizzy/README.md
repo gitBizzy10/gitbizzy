@@ -5,13 +5,30 @@ To Run:
 cd into correct working folder
 npm install
 npm install jquery --save
-npm install react-ga --save 
+npm install react-ga --save
 npm start
-
 
 ./src/App.js
 Cannot find file: 'About.js' does not match the corresponding name on disk: './src/Components/components'.
 [CHANGED FOLDER NAME TO CAPITALIZED 'Components' THEN WENT INTO APP.JS AND SAVED]
+
+To Branch, Edit and Push:
+
+git status
+# On branch master
+# nothing to commit (working directory clean)
+
+
+
+git remote add origin https://github.com/gitBizzy10/gitbizzy
+git remote -v
+
+Create a new branch
+git checkout -b my_new_branch
+git add.
+git commit .
+git push origin my_new_branch
+
 
 
 ## Available Scripts
