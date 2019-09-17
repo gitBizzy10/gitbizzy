@@ -11,6 +11,7 @@ npm start
 ./src/App.js
 Cannot find file: 'About.js' does not match the corresponding name on disk: './src/Components/components'.
 [CHANGED FOLDER NAME TO CAPITALIZED 'Components' THEN WENT INTO APP.JS AND SAVED]
+^^This should be fixed now, made it 'components' in App.js^^
 
 To Branch, Edit and Push:
 
@@ -18,17 +19,16 @@ git status
 # On branch master
 # nothing to commit (working directory clean)
 
-
-
 git remote add origin https://github.com/gitBizzy10/gitbizzy
 git remote -v
 
 Create a new branch
-git checkout -b my_new_branch
-git add.
+git add .
 git commit .
+- Type in notes, :wq to exit
+git checkout -b my_new_branch
 git push origin my_new_branch
-
+Go to github, update & merge
 
 
 ## Available Scripts
