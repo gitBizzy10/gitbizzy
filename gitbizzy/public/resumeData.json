@@ -14,24 +14,10 @@
       "state":"NY",
       "zip": ""
     },
-    "website": "http://www.dillonbutvin.com",
+    "website": "https://www.dillonbutvin.com",
     "resumedownload":"https://www.linkedin.com/in/dillon-butvin-93406a6/",
+    "presentation":"https://youtu.be/HIk5yNFcaeY?t=4185",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/Dil.Bizzy",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com",
-        "className":"fa fa-google-plus"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/dillon-butvin-93406a6/",
@@ -39,18 +25,17 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/gitbizzy",
+        "url":"https://instagram.com/gitbizzy",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/gitbizzy10",
+        "url":"https://github.com/gitbizzy10",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+      },      {
+              "name":"facebook",
+              "url":"https://facebook.com/Dil.Bizzy",
+              "className":"fa fa-facebook"
       }
     ]
   },
@@ -65,7 +50,7 @@
       },
 	{
         "school":"University of Texas at Austin",
-        "degree":"BA Civil Engineering",
+        "degree":"BS Civil Engineering",
         "graduated":"May 2011",
         "description":""
       }
@@ -151,37 +136,33 @@
         "title":"Japan Blog",
         "category":"Japan Blog",
         "image":"blog-japan.jpg",
-        "url":"http://www.gitbizzyblog.com/japan"
+        "url":"https://www.gitbizzyblog.com/japan"
       },
       {
         "title":"Southeast Asia Blog",
         "category":"Southeast Asia Blog",
         "image":"blog-sea.jpg",
-        "url":"http://www.gitbizzyblog.com/sea"
+        "url":"https://www.gitbizzyblog.com/sea"
       },
       {
         "title":"Europe Blog",
         "category":"Europe Blog",
         "image":"blog-france.jpg",
-        "url":"http://www.gitbizzyblog.com/europe2"
+        "url":"https://www.gitbizzyblog.com/europe2"
       },
       {
         "title":"Sweden, Copenhagen Blog",
         "category":"Sweden, Copenhagen Blog",
         "image":"blog-sweden.jpg",
-        "url":"http://www.gitbizzyblog.com/europe1"
+        "url":"https://www.gitbizzyblog.com/europe1"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Testimonial 1.",
-        "user":"Randal Mcleaird"
-      },
-      {
-        "text":"Testimonial 2",
-        "user":"Mary Feng"
+        "text":"Working with Dillon Butvin was a great experience. He is highly motivated, self-driven, and a fantastic leader. His background working in the startup environment proved to be critically valuable to Second Act. Additionally, his leadership ability helped motivate team members to meet their deadlines and goals. Dillon will be a valuable resource in his future teams.",
+        "user":"Austin Riddle, Second Act"
       }
     ]
   }

@@ -21,15 +21,22 @@ git status
 
 git remote add origin https://github.com/gitBizzy10/gitbizzy
 git remote -v
+Do work
 
 Create a new branch
 git add .
 git commit .
-- Type in notes, :wq to exit
+- Type in notes, esc, :wq to exit
 git checkout -b my_new_branch
 git push origin my_new_branch
 Go to github, update & merge
 
+Build:
+
+In terminal:
+run npm build
+--
+Take contents of build folder (not build folder itself) and add them to Public folder in CyberDuck
 
 ## Available Scripts
 
@@ -38,7 +45,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://localhost:3000](https://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
