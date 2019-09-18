@@ -130,31 +130,31 @@
         "title":"Current Blog - NYC Product Management",
         "category":"Current Blog - NYC Product Management",
         "image":"blog-nyc.jpg",
-        "url":"https://www.gitbizzyblog.com/current"
+        "url":"https://gitbizzy.wordpress.com/current-nyc-the-search-for-a-new-place/"
       },
       {
         "title":"Japan Blog",
         "category":"Japan Blog",
         "image":"blog-japan.jpg",
-        "url":"https://www.gitbizzyblog.com/japan"
+        "url":"https://gitbizzy.wordpress.com/japan/"
       },
       {
         "title":"Southeast Asia Blog",
         "category":"Southeast Asia Blog",
         "image":"blog-sea.jpg",
-        "url":"https://www.gitbizzyblog.com/sea"
+        "url":"https://gitbizzy.wordpress.com/southeast-asia/"
       },
       {
-        "title":"Europe Blog",
-        "category":"Europe Blog",
+        "title":"Iceland, France, Italy, Germany Blog",
+        "category":"Europe-2 Blog",
         "image":"blog-france.jpg",
-        "url":"https://www.gitbizzyblog.com/europe2"
+        "url":"https://gitbizzy.wordpress.com/europe2/"
       },
       {
         "title":"Sweden, Copenhagen Blog",
         "category":"Sweden, Copenhagen Blog",
         "image":"blog-sweden.jpg",
-        "url":"https://www.gitbizzyblog.com/europe1"
+        "url":"https://gitbizzy.wordpress.com/europe1/"
       }
     ]
   },

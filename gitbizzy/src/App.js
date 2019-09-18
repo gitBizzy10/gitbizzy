@@ -20,12 +20,7 @@ class App extends Component {
     };
 
     ReactGA.initialize('UA-148146964-1');
-    ReactGA.pageview(window.location.pathname);
-    ReactGA.event({
-            category: 'User',
-            action: 'Create an Account'
-});
-
+    ReactGA.pageview('/homepage');
   }
 
   getResumeData(){
