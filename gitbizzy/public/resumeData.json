@@ -40,7 +40,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"Hack Reactor",
@@ -57,40 +56,40 @@
     ],
     "work":[
       {
-        "company":"The Second Act - OwlSpark Accelerator",
-        "title":"Co-Founder & Product Manager",
-        "years":"May 2019 - Aug 2019",
-        "description":"Worked in a startup accelerator with a team of Rice MBAs on a project connecting skilled retirees with startups and small businesses looking for experts part-time. -- Watch my presentation: https://youtu.be/HIk5yNFcaeY?t=4185"
+        "company":"OwlSpark Accelerator - The Second Act",
+        "title":"Co-Founder & Customer Development Lead",
+        "years":"May 2019 - August 2019",
+        "description":"Co-founder in a startup accelerator with a team of Rice MBAs to connect skilled retirees with startups and small businesses looking for experts part-time | Featured speaker at Bayou Startup Showcase: https://youtu.be/HIk5yNFcaeY?t=4185"
       },
       {
-        "company":"SAHB Realty Group",
-        "title":"Product Management Consultant",
-        "years":"April 2019 - Aug 2019",
-        "description":"Hired as a product consultant to assess current issues and provide a roadmap, metrics, and a process for capturing metrics to improve performance."
+        "company":"San Antonio House Buyers (SAHB)",
+        "title":"Product Consultant",
+        "years":"March 2019 - August 2019",
+        "description":"Provided framework and organized execution plan for 1-yr, 3-yr, and 5-yr roadmap | Constructed automated, scorecard based hiring process, 2-day interactive onboarding curriculum, and ongoing, weekly training program - used to bring on 1st successful, quality hire | Developed model for metrics and tracking - actual YTD revenue has increased to $1.5M as of Oct 2019"
       },
 	{
         "company":"Texas ToGo",
         "title":"COO",
-        "years":"Jan 2018 - Nov 2018",
-        "description":"- Developed market entry strategy, increasing velocity of new market expansion. Entered 7 new markets in 6 months (12 markets entered in the previous 72 months) -- Designed and implemented driver sign up pipeline, decreasing average time from application to driving from 7-9 days to 1-3 days -- Catalyzed Sales Strategy and Training. Increased restaurant signups from 2-5/month to 25-30/month -- 75 order/day increase during tenure -- Created interviewing and onboarding process -- Hired 12 new employees -- Established quarterly and yearly projections and operational plans to accomplish goals"
+        "years":"January 2018 - December 2018",
+        "description":"5x increase in velocity of new market expansion -- Developed, launched, and managed a new market entry strategy | 75% decrease in time from sign-up to driving for new drivers -- Designed and implemented automated driver sign-up pipeline | 7x increase in restaurant sign-ups  -- Catalyzed sales strategy, training, and accountability | 10% daily order volume increase | Hired and trained 12 employees  -- Created and implemented interviewing and onboarding processes | Established quarterly and yearly roadmaps and operational plans to accomplish growth goals"
       },
       {
         "company":"Bizzy, LLC",
         "title":"Founder and CEO",
-        "years":"Dec 2015 - Present",
-        "description":"Entrepreneurial venture LLC, mostly real estate investment, acquisition, and management. -- Acquired 2 duplex rental properties -- Managed long-term and Airbnb rental processes -- Learned customer-centric approach to comfort when arriving at a home, how to intuitively guide guests in usage, predict and cover problems that may arise, market, and price properties effectively -- Managed or self-completed major renovations and improvement projects -- Founder and Partner in Z&D, LLC real estate development investment team"
+        "years":"2012 - Present",
+        "description":"Founder and Partner in Z&D, LLC real estate development investment team, partnering with large scale developers in the region to fund apartment complex construction and renovation projects | Self: purchased and managed multiple duplex rental properties -- Pricing properties according to market rates and fluctuations -- Marketing to potential renters in my target market -- Learned customer-centric approaches to intuitively guide guests in usage + predict and cover problems that may arise -- Supervised or self-completed major renovations and improvement projects"
       },
       {
         "company":"ShippingEasy",
         "title":"Account Manager",
         "years":"October 2016 - June 2017",
-        "description":"ShippingEasy is a recently acquired wholly-owned subsidiary of stamps.com. They provide an aggregated shipping solution across multiple e-commerce platforms for small businesses. They recently won the All-Star Service Team of the Year – Small Business Award presented by the National Customer Service Association (NCSA). -- Joined to learn more about startups and remote teams - applied learning to manage Texas ToGo market teams across 19 locations. -- Advanced knowledge of customer service and how to reach customers, learn from their pain points, and use customer service as a platform for sales and product development -- Later brought my boss on as a consultant and mentor while working on the customer service build-out for Texas ToGo"
+        "description":"Managed various accounts from small businesses to international customer accounts in a fast-paced startup environment | Furthered knowledge of customer service and how to reach customers, learn from their pain points, and use customer service as a platform for sales and product development"
       },
       {
         "company":"Schlumberger & Pelican Energy Consultants",
         "title":"Engineer",
-        "years":"October 2011 - Feb 2016",
-        "description":"Planning and projections with ability for quick contingency in a dynamic, high stakes offshore drilling environment -- Completion of Drilling Fluids School with 99.7% competency and top marks in physical laboratory proficiency -- Design and implementation management of steel structures and concrete foundations -- EIT certificate completion"
+        "years":"October 2011 - February 2016",
+        "description":"Planning and projections with the ability for quick contingency in a dynamic, high stakes offshore drilling environment for multi-million dollar projects | Managed projects, design, and implementation management of steel structures and concrete foundations "
       }
     ],
     "skills":[
